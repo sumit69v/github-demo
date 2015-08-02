@@ -19,7 +19,7 @@ Git Basic workflow with GitHub
 >>COPY REPOSITORIES (CLONE)
   >command listing
     # paste in your github HTTPS clone URL
-    get clone https://github.com/sumitshrestha/github-demo.git
+    get clone https://github.com/sumit69v/github-demo.git
     ls 
     cd github-demo
     ls
